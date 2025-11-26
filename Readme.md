@@ -47,7 +47,7 @@ KOTLIN/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ExpenseTracker.git
+git@github.com:Elviselly2/kotlin-expense-tracker.git
 cd KOTLIN/src
 
 2.**compile all kotlin files
